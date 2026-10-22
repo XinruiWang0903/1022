@@ -1,0 +1,31 @@
+01_Data
+  01_Raw_Data
+    Raw_Data_Status.md
+
+  02_Cleaned_Analysis_Data
+    01_Full_Dataset
+      panel_data_full.xlsx
+    02_Anonymized_Dataset
+      panel_data_anonymized.xlsx
+    03_Earlier_Version
+      data_legacy.xlsx
+
+  03_Spatial_Weight_Matrices
+    W1.csv
+    W2.csv
+
+02_Code_and_Scripts
+  01_Main_Analysis
+    code.do
+  02_Spatial_Analysis
+    SDM.do
+
+03_Variable_Definitions_and_Transformations
+  Variable_Dictionary.md
+  Data_Processing_and_Transformations.md
+
+04_Data_Availability
+  Data_Availability_Statement.txt
+
+05_Expected_Outputs
+  README.txt

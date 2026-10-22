@@ -1,0 +1,15 @@
+Data Availability
+
+The data and supporting materials used in this study are provided in the supplementary peer-review package. The shared materials comprise the full city-year analysis dataset used in the estimations, an anonymized version of that dataset, two spatial weight matrices, the Stata programs used for the reported empirical analyses, a variable dictionary, and reproduction instructions.
+
+The underlying source records were compiled from the Wind Database, the CSMAR Database, the China Urban Construction Statistical Yearbook, the China City Statistical Yearbook, the China Energy Statistical Yearbook, the China Environmental Statistical Yearbook, and the Data Center of the National Bureau of Statistics of China. The original Wind and CSMAR records are third-party licensed data and are not redistributed in this package; access is available directly from the respective providers subject to their subscription and licensing terms. Original public-source downloads and the complete code used to construct the analysis variables from those raw sources are not currently included in the supplied materials. These items should be added, or their precise editions, links, and transformation procedures should be documented, before the package is described as providing full raw-data reproducibility.
+
+For peer review, the shared supplementary files are sufficient to inspect the analysis-ready panel dataset and rerun the supplied estimation programs, subject to the software requirements and known issues documented in the package. After acceptance, the materials will be deposited at [REPOSITORY NAME AND DOI/URL TO BE ADDED].
+
+IMPORTANT FOR THE AUTHORS
+
+Use exactly the same final Data Availability statement in both locations required by the journal:
+1. At the end of the manuscript under “Data Availability”.
+2. In the submission system under “Declarations”.
+
+Replace the bracketed repository field before public deposition. Do not use “No”, “Not applicable”, or “Data will be made available on request”.
